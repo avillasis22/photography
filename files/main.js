@@ -1,6 +1,6 @@
 sr.reveal('.image, .caption, .bioDiv', {
     origin: 'bottom',
-    distance: '10px',
+    distance: '100px',
     duration: 800,
     easing: 'ease',
     mobile: true,
