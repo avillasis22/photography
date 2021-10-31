@@ -1,4 +1,4 @@
-sr.reveal('.imageOne, .caption, .bioDiv', {
+sr.reveal('.imageOne, .caption', {
     origin: 'bottom',
     distance: '100px',
     duration: 800,
