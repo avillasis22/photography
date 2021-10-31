@@ -1,16 +1,4 @@
-$(function(){
-  setTimeout(function(){
-    $('html, body')
-    .css({
-      'overflow': 'auto'
-    })
-    .animate({
-      scrollTop: $('.myDiv').offset().top
-    }, 2000);
-  }, 2000);
-});
-
-sr.reveal('.image, .caption, .bioDiv', {
+sr.reveal('.sectionOne, .sectionTwo, .caption, .bioDiv', {
     origin: 'bottom',
     distance: '30px',
     duration: 800,
