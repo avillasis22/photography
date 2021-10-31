@@ -77,5 +77,6 @@ img {
 
 .image {
 	border-style: outset;
-	height:auto;
+	height: auto;
+	min-height:45vw;
 }
