@@ -45,6 +45,9 @@ img {
 	border-radius: 40px;
 	height: auto;
 	max-width: 100%;
+	position:absolute;
+	bottom:0px;
+
 }
 
 .imageDiv {
@@ -77,5 +80,5 @@ img {
 
 .image {
 	border-style: outset;
-	height: 54vw;
+	height: 53.5vw;
 }
