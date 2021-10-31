@@ -1,4 +1,5 @@
-sr.reveal('.sectionOne, .sectionTwo, .caption, .bioDiv', {
+$( document ).ready(function() {
+sr.reveal('.image, .caption, .bioDiv', {
     origin: 'bottom',
     distance: '30px',
     duration: 800,
