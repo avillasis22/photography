@@ -4,6 +4,6 @@ sr.reveal('.image, .caption, .bioDiv', {
     duration: 800,
     easing: 'ease',
     mobile: true,
-    
+    reset: true,
     viewFactor: 0.2,
 });
